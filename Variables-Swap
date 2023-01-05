@@ -1,0 +1,11 @@
+Swapping the values of two variables:
+
+#Declare and assign values to two variables
+x = 3
+y = 2
+
+#Swap the values of the variables
+z, y = y, x
+
+#Print the new values
+print(x, y)
