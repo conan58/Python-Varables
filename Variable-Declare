@@ -1,0 +1,6 @@
+#Declare a variable and assign it a value
+
+x = 6
+
+#print the value of the variable
+print(x)
