@@ -1,0 +1,10 @@
+Assigning a new value to an existing variable:
+
+#Declare a variable and assign it a value
+x = 5
+
+#Assign a new value to the Variable
+x = 12
+
+#Print the new value of the variable
+print(x)
