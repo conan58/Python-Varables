@@ -1,0 +1,7 @@
+Declaring and assigning multiple variables at once:
+
+#Declare and assign values to multiple variables in a single statement
+x, y, z = 1, 2, 3
+
+#print the values of the variables
+print(x, y, z)
