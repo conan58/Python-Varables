@@ -1,0 +1,11 @@
+# A program that calculates the area of a triangle given its base and height:
+#
+# Prompt the user for the base and height of the triangle
+base = float(input("Enter the Base of the triangle: "))
+height = float(input("Enter the height of the triangle: "))
+#
+# Calculate the area of the triangle
+area = 0.5 * base * height
+#
+# Print the result
+print(f"The area of the triangle is {area}.")
