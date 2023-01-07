@@ -1,0 +1,11 @@
+#Lets do some simple math with our variables
+#declare variables
+x = 12
+y = 90
+
+#The math,  here I just did subtraction but you can do devision and addition
+total = (y - x)
+
+#Print the Total
+print("The total is", total)
+
