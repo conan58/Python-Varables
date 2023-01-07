@@ -1,0 +1,13 @@
+# A program that converts a temperature from Celsius to Fahrenheit:
+#
+# Prompt the user for a Temperature in Celsius
+celsius = float(input("Enter a temerature in Celsius: "))
+#
+# Convert the temperature to Fahrenheit
+fahrenheit = (celsius * 9 / 5) + 32
+#
+# Print the result
+#
+print(f"{celsius}°C is the equivalent to {fahrenheit}°F.")
+#
+# Do you see that "f" fucntion again .... look at its usage here.  It is the same
