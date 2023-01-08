@@ -1,0 +1,8 @@
+# Prompt the user for a String
+string = input("Enter a string: ")
+
+# Convert the string to uppercase
+uppercase_string = string.upper()
+
+# Print the result
+print("The uppercase version of the string is", uppercase_string)
